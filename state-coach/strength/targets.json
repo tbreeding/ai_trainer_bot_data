@@ -1,0 +1,27 @@
+{
+  "updated": "2026-06-22",
+  "note": "Cut phase: keep weights heavy (preserve strength = preserve muscle), moderate volume. Main lifts in a 4-6 rep strength range; accessories double-progression 8-12. Calibrate live in week 1, then progress when all working sets hit the top of the range.",
+  "Mon_pull": {
+    "deadlift":        { "scheme": "4x5",      "kg": 125, "range": "110-140", "next_increment": 5.0 },
+    "lat_pulldown":    { "scheme": "3x8-12",   "kg": null, "next_increment": 2.5 },
+    "assisted_pullup": { "scheme": "3xAMRAP",  "assist_kg": 32, "progress": "reduce assist when 3x8+" },
+    "seated_cable_row":{ "scheme": "3x8-12",   "kg": null, "next_increment": 2.5 },
+    "back_extension":  { "scheme": "3x12",     "added_kg": 22, "next_increment": 2.5 },
+    "biceps_curl":     { "scheme": "3x10-12",  "kg": null, "next_increment": 2.5, "note": "added to cover arms" }
+  },
+  "Wed_legs": {
+    "squat":           { "scheme": "4x6",      "kg": 70, "range": "60-80", "next_increment": 2.5 },
+    "leg_press":       { "scheme": "3x10-12",  "kg": null, "next_increment": 5.0 },
+    "lunges":          { "scheme": "3x10/leg", "kg": null, "next_increment": 2.5 },
+    "leg_extension":   { "scheme": "3x12-15",  "kg": null, "next_increment": 2.5 },
+    "lying_leg_curl":  { "scheme": "3x12-15",  "kg": null, "next_increment": 2.5 },
+    "calf_raise":      { "scheme": "3x15",     "kg": null, "next_increment": 2.5, "note": "optional" }
+  },
+  "Fri_push": {
+    "bench":           { "scheme": "4x5",      "kg": 70, "range": "60-80", "next_increment": 2.5 },
+    "incline_or_decline_press": { "scheme": "3x8-12", "kg": null, "next_increment": 2.5 },
+    "overhead_press":  { "scheme": "3x8-10",   "kg": null, "next_increment": 2.5, "note": "added to cover shoulders" },
+    "lateral_raise":   { "scheme": "3x12-15",  "kg": null, "next_increment": 1.25, "note": "added to cover shoulders" },
+    "triceps_pushdown":{ "scheme": "3x10-12",  "kg": null, "next_increment": 2.5, "note": "added to cover arms" }
+  }
+}

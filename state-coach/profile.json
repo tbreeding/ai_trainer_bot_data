@@ -1,0 +1,22 @@
+{
+  "name": "Tim",
+  "age": 45,
+  "height_cm": 174,
+  "weight_start_kg": 87,
+  "weight_target_kg": 70,
+  "target_date": "2026-12-31",
+  "sleep_target_h": 7.5,
+  "goal": "aggressive fat loss while retaining muscle; rebuild conditioning for a return to BJJ",
+  "conditioning_goal": {
+    "sport": "BJJ",
+    "status": "returning",
+    "date": null
+  },
+  "working_weights_kg": {
+    "deadlift": 125,
+    "squat": 70,
+    "bench": 70,
+    "assisted_pullup_assist": 32,
+    "back_extension_added": 22
+  }
+}

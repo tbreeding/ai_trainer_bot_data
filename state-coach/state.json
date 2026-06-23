@@ -1,0 +1,28 @@
+{
+  "phase": "cut",
+  "phase_note": "aggressive fat loss, muscle retention priority",
+  "mesocycle_week": 1,
+  "kcal_target_base": 1950,
+  "macros_g": {
+    "protein": 185,
+    "fat": 55,
+    "carb": 175
+  },
+  "training_day_carb_bonus_g": 35,
+  "hydration_target_l": 3.0,
+  "weight_ma7": 87.05,
+  "deload_flag": false,
+  "steps_target": 8000,
+  "steps_target_days": "daily",
+  "alcohol_goal": "zero",
+  "alcohol_dry_streak_days": 1,
+  "split": {
+    "Mon": "Pull (Back + biceps) + cardio",
+    "Wed": "Legs + cardio",
+    "Fri": "Push (Chest + shoulders + triceps) + cardio",
+    "Tue": "rest",
+    "Thu": "rest",
+    "Sat": "rest",
+    "Sun": "rest"
+  }
+}
