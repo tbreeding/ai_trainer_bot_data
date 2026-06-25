@@ -1,7 +1,7 @@
 {
   "lastChecks": {
-    "weight_reminder": "2026-06-24",
-    "sleep_reminder": "2026-06-24",
+    "weight_reminder": null,
+    "sleep_reminder": null,
     "session_reminder": "2026-06-24",
     "day_close_reminder": "2026-06-24",
     "weekly_review": null
