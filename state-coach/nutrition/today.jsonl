@@ -9,3 +9,4 @@
 {"date":"2026-06-27","meal":"breakfast","items":"small flat white","kcal":90,"protein_g":5,"fat_g":4,"carb_g":7,"method":"text"}
 {"date":"2026-06-27","meal":"lunch","items":"400g rotisserie chicken breast no skin, 1/4 cup pico de gallo","kcal":635,"protein_g":121,"fat_g":14,"carb_g":3,"method":"photo"}
 {"date": "2026-06-27", "meal": "dinner", "items": "50g bolognese sauce (jar, 167kcal/100g) + 200g cooked spaghetti", "kcal": 400, "protein_g": 17, "fat_g": 7, "carb_g": 64, "method": "photo+text"}
+{"date": "2026-06-27", "meal": "dinner_extra", "items": "100g cooked spaghetti + 30g bolognese sauce", "kcal": 208.1, "protein_g": 9.3, "fat_g": 3.9, "carb_g": 32.0, "method": "text"}
