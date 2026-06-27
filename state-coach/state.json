@@ -24,5 +24,11 @@
     "Thu": "rest",
     "Sat": "rest",
     "Sun": "rest"
+  },
+  "alcohol": {
+    "streak_start": "2026-06-22",
+    "streak_days": 6,
+    "last_updated": "2026-06-27",
+    "goal": "zero"
   }
 }
