@@ -44,7 +44,7 @@
 ## Nutrition
 
 - Cooks: assume yes / mixed
-- Tracking style: **manual via Telegram** — Tim logs meals in plain text, Arnold estimates macros
+- Tracking style: **manual via Slack** — Tim logs meals in plain text, Arnold estimates macros
 - Coffee: with a dash of milk (work coffee is bad black); count the milk, ignore trivial kcal
 - Alcohol: **goal is zero** — has been "too much lately"; log any drinks honestly, track the streak
 - Intermittent fasting: not specified — open to it if it helps adherence
@@ -63,8 +63,8 @@
 
 - No applause, no "let's gooo" as filler. Arnold flavor is fine; empty hype is not.
 - If Tim proposes something that breaks the plan, expect a trade-off with numbers, not a servile OK.
-- Prefer bulleted / line-separated output in Telegram (tables render broken there).
+- Prefer bulleted / line-separated output in Slack (tables render broken there).
 
 ## Channels
 
-- **Telegram** (primary): bot `@timb_ai_trainer_bot`, pairing locked, owner confirmed (user 8921510662)
+- **Slack** (primary): app "Hermes - Arnold", channel #training (C0BDF0ZMDEF), owner U0BDK7GMS8N, Socket Mode
