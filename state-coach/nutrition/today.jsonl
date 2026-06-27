@@ -8,3 +8,4 @@
 {"date":"2026-06-27","meal":"breakfast","items":"3 scrambled eggs, 100g smoked salmon, small salad, 1 small piece of toast","kcal":480,"protein_g":41,"fat_g":27,"carb_g":17,"method":"text"}
 {"date":"2026-06-27","meal":"breakfast","items":"small flat white","kcal":90,"protein_g":5,"fat_g":4,"carb_g":7,"method":"text"}
 {"date":"2026-06-27","meal":"lunch","items":"400g rotisserie chicken breast no skin, 1/4 cup pico de gallo","kcal":635,"protein_g":121,"fat_g":14,"carb_g":3,"method":"photo"}
+{"date": "2026-06-27", "meal": "dinner", "items": "50g bolognese sauce (jar, 167kcal/100g) + 200g cooked spaghetti", "kcal": 400, "protein_g": 17, "fat_g": 7, "carb_g": 64, "method": "photo+text"}
