@@ -4,18 +4,6 @@
 §
 2026-06-22 — Day 1 > Training: **Pull day: SKIPPED**
 §
-2026-06-22 — Day 1 > Nutrition — CLOSED: Target: 1950 kcal · P185 / F55 / C175
-§
-2026-06-22 — Day 1 > Nutrition — CLOSED: Actual: 1361 kcal · P81 / F107 / C26
-§
-2026-06-22 — Day 1 > Nutrition — CLOSED: ⚠️ Protein 81g vs 185g target — 44%. Severe shortfall.
-§
-2026-06-22 — Day 1 > Nutrition — CLOSED: Fat way over (107 vs 55g), carbs very low (26 vs 175g)
-§
-2026-06-22 — Day 1 > Nutrition — CLOSED: Olive oil + walnuts drove fat up. No starchy carbs eaten.
-§
-2026-06-22 — Day 1 > Notes: Day 1 of the program. Baseline set.
-§
 2026-06-22 — Day 1 > Notes: Sleep is already the first thing to watch.
 §
 2026-06-22 — Day 1 > Notes: Missed the first session — no reason given. Watch Wednesday.
@@ -26,7 +14,7 @@
 §
 2026-06-26 — Push Day (Week 1, Day 5 of cut) > Weight & Sleep: **Weight:** 85.9 kg (fasted) — down 1.1 kg in 4 days (water/glycogen expected early)
 §
-2026-06-26 — Push Day (Week 1, Day 5 of cut) > Weight & Sleep: **7d MA:** 86.70 kg (5 entries)
+2026-06-28 — Rest Day (Week 1, Day 7) > Weight: 86.4 kg (fasted) · 7d MA: 86.53 kg (full week, down 0.47 kg from 87.0 start)
 §
 2026-06-26 — Push Day (Week 1, Day 5 of cut) > Weight & Sleep: **Sleep:** 5h 48m, quality 2/5 — fragmented, four wake events. Third consecutive short night.
 §
