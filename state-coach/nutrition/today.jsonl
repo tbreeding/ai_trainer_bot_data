@@ -13,3 +13,4 @@
 {"date": "2026-06-28", "meal": "lunch", "items": "150g cooked white rice, 100g Mexican black beans (cooked), 30g avocado, 300g chicken tinga, 50g Lidl Skyr Natur (high protein yogurt), 20g tomato", "kcal": 800, "protein_g": 79.8, "fat_g": 20.5, "carb_g": 85.9, "method": "photo"}
 {"date": "2026-06-28", "meal": "breakfast", "items": "3 medium eggs, 50g deli chicken, mushroom, spring onion whites, 15g goat cheese, olive oil spray ~2 tsp", "kcal": 377, "protein_g": 32, "fat_g": 26, "carb_g": 3, "method": "text"}
 {"date": "2026-06-28", "meal": "snack", "items": "53g protein shake (53g, Nutrend or similar whey isolate)", "kcal": 202, "protein_g": 45.3, "fat_g": 1.1, "carb_g": 2.7, "method": "text"}
+{"date": "2026-06-28", "meal": "final_snack", "items": "55g deli chicken breast, 20g high-protein yogurt (Skyr-type)", "kcal": 79, "protein_g": 16.7, "fat_g": 0.85, "carb_g": 0.8, "method": "text"}
