@@ -14,3 +14,4 @@
 {"date": "2026-06-28", "meal": "breakfast", "items": "3 medium eggs, 50g deli chicken, mushroom, spring onion whites, 15g goat cheese, olive oil spray ~2 tsp", "kcal": 377, "protein_g": 32, "fat_g": 26, "carb_g": 3, "method": "text"}
 {"date": "2026-06-28", "meal": "snack", "items": "53g protein shake (53g, Nutrend or similar whey isolate)", "kcal": 202, "protein_g": 45.3, "fat_g": 1.1, "carb_g": 2.7, "method": "text"}
 {"date": "2026-06-28", "meal": "final_snack", "items": "55g deli chicken breast, 20g high-protein yogurt (Skyr-type)", "kcal": 79, "protein_g": 16.7, "fat_g": 0.85, "carb_g": 0.8, "method": "text"}
+{"date": "2026-06-28", "meal": "evening_snack", "items": "30g Emco Super Ovoce bez pridaneho cukru (dried fruit mix, no added sugar)", "kcal": 95, "protein_g": 0.6, "fat_g": 0.2, "carb_g": 21, "method": "text"}
