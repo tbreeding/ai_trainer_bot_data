@@ -10,6 +10,3 @@
 {"date":"2026-06-27","meal":"lunch","items":"400g rotisserie chicken breast no skin, 1/4 cup pico de gallo","kcal":635,"protein_g":121,"fat_g":14,"carb_g":3,"method":"photo"}
 {"date": "2026-06-27", "meal": "dinner", "items": "50g bolognese sauce (jar, 167kcal/100g) + 200g cooked spaghetti", "kcal": 400, "protein_g": 17, "fat_g": 7, "carb_g": 64, "method": "photo+text"}
 {"date": "2026-06-27", "meal": "dinner_extra", "items": "100g cooked spaghetti + 30g bolognese sauce", "kcal": 208.1, "protein_g": 9.3, "fat_g": 3.9, "carb_g": 32.0, "method": "text"}
-{"date": "2026-06-28", "meal": "lunch", "items": "150g cooked white rice, 100g Mexican black beans (cooked), 30g avocado, 300g chicken tinga, 50g Lidl Skyr Natur (high protein yogurt), 20g tomato", "kcal": 800, "protein_g": 79.8, "fat_g": 20.5, "carb_g": 85.9, "method": "photo"}
-{"date": "2026-06-28", "meal": "breakfast", "items": "3 medium eggs, 50g deli chicken, mushroom, spring onion whites, 15g goat cheese, olive oil spray ~2 tsp", "kcal": 377, "protein_g": 32, "fat_g": 26, "carb_g": 3, "method": "text"}
-{"date": "2026-06-28", "meal": "snack", "items": "53g protein shake (53g, Nutrend or similar whey isolate)", "kcal": 202, "protein_g": 45.3, "fat_g": 1.1, "carb_g": 2.7, "method": "text"}
