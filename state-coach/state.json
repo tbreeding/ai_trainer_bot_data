@@ -1,7 +1,7 @@
 {
   "phase": "cut",
   "phase_note": "aggressive fat loss, muscle retention priority",
-  "mesocycle_week": 1,
+  "mesocycle_week": 2,
   "kcal_target_base": 1950,
   "macros_g": {
     "protein": 185,
@@ -10,12 +10,12 @@
   },
   "training_day_carb_bonus_g": 35,
   "hydration_target_l": 3.0,
-  "weight_ma7": 86.53,
+  "weight_ma7": 86.5,
   "deload_flag": false,
   "steps_target": 8000,
   "steps_target_days": "daily",
   "alcohol_goal": "zero",
-  "alcohol_dry_streak_days": 4,
+  "alcohol_dry_streak_days": 7,
   "split": {
     "Mon": "Pull (Back + biceps) + cardio",
     "Wed": "Legs + cardio",
@@ -27,8 +27,8 @@
   },
   "alcohol": {
     "streak_start": "2026-06-22",
-    "streak_days": 6,
-    "last_updated": "2026-06-28",
+    "streak_days": 7,
+    "last_updated": "2026-06-29",
     "goal": "zero"
   }
 }
