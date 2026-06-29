@@ -27,3 +27,5 @@
 2026-06-26 — Push Day (Week 1, Day 5 of cut) > Nutrition: **Carbs:** 47g / 210g target — very low (skipped rice at dinner)
 §
 2026-06-29 — Pull Day (Week 2, Day 1) > Weight: 86.8 kg (fasted) · 7d MA: 86.50 kg — essentially flat vs last week (86.53). Water-weight phase over. Real trend needs to emerge this week.
+§
+2026-06-29 — Creatine started (new). Scale unreliable until ~2026-07-13 due to water retention. Do NOT trigger stall/deficit adjustment based on weight trend until then.
