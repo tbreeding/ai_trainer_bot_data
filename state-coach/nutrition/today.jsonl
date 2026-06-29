@@ -17,3 +17,4 @@
 {"date": "2026-06-28", "meal": "evening_snack", "items": "30g Emco Super Ovoce bez pridaneho cukru (dried fruit mix, no added sugar)", "kcal": 95, "protein_g": 0.6, "fat_g": 0.2, "carb_g": 21, "method": "text"}
 {"date": "2026-06-29", "meal": "snack", "items": "35g whey protein shake (label: 131 kcal, 23g protein, 1.1g fat, 7.4g carb per 35g serving)", "kcal": 131, "protein_g": 23, "fat_g": 1.1, "carb_g": 7.4, "method": "label"}
 {"date": "2026-06-29", "meal": "lunch", "items": "4 salmon nigiri, 4 sauceless buffalo wings (no sauce, skin-on), 100g cooked rice, half cup (~120g) 8 treasures mixed veg", "kcal": 870, "protein_g": 63.7, "fat_g": 37.3, "carb_g": 76.0, "method": "photo+text"}
+{"date": "2026-06-29", "meal": "lunch_2", "items": "4 more salmon nigiri \u2014 salmon from all 4, rice from 2 only (~40g rice)", "kcal": 262, "protein_g": 21, "fat_g": 12, "carb_g": 12, "method": "photo+text"}
