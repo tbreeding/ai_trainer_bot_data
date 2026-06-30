@@ -4,12 +4,12 @@
 §
 2026-06-26 — Push Day (Week 1, Day 5 of cut) > Weight & Sleep: **Weight:** 85.9 kg (fasted) — down 1.1 kg in 4 days (water/glycogen expected early)
 §
-2026-06-28 — Rest Day (Week 1, Day 7) > Weight: 86.4 kg (fasted) · 7d MA: 86.53 kg (full week, down 0.47 kg from 87.0 start)
+2026-06-30 — SCALE RESET resolved: 88.7 was uneven floor. Corrected reading: 86.9 kg. Previous readings (85.9, 86.4, 86.8) back in play — all consistent. 7d MA ~86.5 kg. New baseline is 87.0 kg (original start, still valid).
 §
 2026-06-26 — Push Day (Week 1, Day 5 of cut) > Weight & Sleep: **Sleep:** 5h 48m, quality 2/5 — fragmented, four wake events. Third consecutive short night.
 §
-2026-06-29 — Pull Day (Week 2, Day 1) > Weight: 86.8 kg (fasted) · 7d MA: 86.50 kg — essentially flat vs last week (86.53). Water-weight phase over. Real trend needs to emerge this week.
+2026-06-30 — 7d MA ~86.5 kg (85.9, 86.4, 86.8, 86.9). Trend line valid. Creatine water retention still expected.
 §
-2026-06-29 — Creatine started (new). Scale unreliable until ~2026-07-13 due to water retention. Do NOT trigger stall/deficit adjustment based on weight trend until then.
+2026-06-29 — Creatine started. Scale unreliable until ~2026-07-13 (water retention). Do NOT trigger stall/deficit adjustment until then. Baseline 88.7 kg set 2026-06-30.
 §
 RULE — before asking Tim for any data (weight, sleep, cardio, nutrition): (1) check files under ~/.hermes/state/coach/ first, (2) scan session history for anything Tim sent earlier. Only ask if genuinely missing from both. Never ask for data already provided.
