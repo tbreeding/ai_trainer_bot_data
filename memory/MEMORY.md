@@ -13,3 +13,5 @@
 2026-06-29 — Creatine started. Scale unreliable until ~2026-07-13 (water retention). Do NOT trigger stall/deficit adjustment until then. Baseline 88.7 kg set 2026-06-30.
 §
 RULE — before asking Tim for any data (weight, sleep, cardio, nutrition): (1) check files under ~/.hermes/state/coach/ first, (2) scan session history for anything Tim sent earlier. Only ask if genuinely missing from both. Never ask for data already provided.
+§
+RULE — before logging any nutrition entry: (1) read nutrition.jsonl to see what's already on file for today, (2) search session history for any meals logged in previous sessions that may not have been written to file. Never assume the file is complete without cross-checking both.
