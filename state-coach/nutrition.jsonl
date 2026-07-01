@@ -2,3 +2,4 @@
 {"date": "2026-06-30", "time": "14:39", "meal": "Saffola Fit & Good RTD protein drinks (2x 250ml)", "kcal": 395, "protein_g": 50.0, "fat_g": 2.25, "carbs_g": 36.5}
 {"date": "2026-06-30", "time": "20:00", "meal": "Doner chicken meat (100g) + veggies + herb yogurt sauce (50g) + chicken tinga (150g)", "kcal": 430, "protein_g": 52, "fat_g": 16, "carbs_g": 17}
 {"date": "2026-06-30", "time": "21:00", "meal": "Nutrend ISO Whey protein shake (29g)", "kcal": 107, "protein_g": 23.7, "fat_g": 0.5, "carbs_g": 1.4}
+{"date": "2026-07-01", "time": "08:42", "meal": "gym shake", "items": [{"name": "Gym shake machine (35g serving)", "qty": 1, "unit": "serving"}], "kcal": 131, "protein_g": 23, "carbs_g": 7.4, "fat_g": 1.1, "notes": "post-lift shake from gym machine"}
