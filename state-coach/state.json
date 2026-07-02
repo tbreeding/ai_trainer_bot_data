@@ -10,12 +10,12 @@
   },
   "training_day_carb_bonus_g": 35,
   "hydration_target_l": 3.0,
-  "weight_ma7": 86.43,
+  "weight_ma7": 86.7,
   "deload_flag": false,
   "steps_target": 8000,
   "steps_target_days": "daily",
   "alcohol_goal": "zero",
-  "alcohol_dry_streak_days": 7,
+  "alcohol_dry_streak_days": 10,
   "split": {
     "Mon": "Pull (Back + biceps) + cardio",
     "Wed": "Legs + cardio",
@@ -27,8 +27,8 @@
   },
   "alcohol": {
     "streak_start": "2026-06-22",
-    "streak_days": 7,
-    "last_updated": "2026-06-29",
+    "streak_days": 10,
+    "last_updated": "2026-07-02",
     "goal": "zero"
   }
 }
