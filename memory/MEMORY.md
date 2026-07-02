@@ -2,7 +2,7 @@ RULE — before asking Tim for any data (weight, sleep, cardio, nutrition): (1) 
 §
 RULE — before logging any nutrition entry: (1) read nutrition.jsonl to see what's already on file for today, (2) search session history for any meals logged in previous sessions that may not have been written to file. Never assume the file is complete without cross-checking both. Tim has flagged this twice — missing a previously logged meal is a recurring frustration. Always reconcile file vs. session history before writing or reporting totals.
 §
-2026-07-01 — Deadlift PR: 140 kg (up from 130 kg top set on 2026-06-29). Hit in a caloric deficit. New working ceiling. Tim highly motivated about cut to 70 kg.
+Deadlift top set on file: 130 kg x2 (2026-06-29). The 140 kg PR logged on 2026-07-01 was false — Tim confirmed it never happened. No deadlift on 2026-07-01.
 §
 WEIGHT & HEALTH — 7d MA ~86.5 kg (scale unreliable until ~2026-07-13 due to creatine water retention; baseline 87 kg valid). Sleep ~5–6 h, target 7–8 h. Creatine started 2026-06-29.
 §
