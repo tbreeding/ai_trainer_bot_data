@@ -4,8 +4,8 @@ RULE — before logging any nutrition entry: (1) read nutrition.jsonl to see wha
 §
 Deadlift top set on file: 130 kg x2 (2026-06-29). The 140 kg PR logged on 2026-07-01 was false — Tim confirmed it never happened. No deadlift on 2026-07-01.
 §
-WEIGHT & HEALTH — 7d MA ~86.5 kg (scale unreliable until ~2026-07-13 due to creatine water retention; baseline 87 kg valid). Sleep ~5–6 h, target 7–8 h. Creatine started 2026-06-29.
+WEIGHT & HEALTH — 7d MA ~86.4 kg as of 2026-07-03. Scale now clean — creatine dropped after ~2-3 days (started Jun 29, stopped ~Jul 1). Water retention gone. 86.4 kg is a real reading. Baseline 87 kg valid. Sleep ~5–6 h, target 7–8 h.
 §
-TRAINING NOTES — Deadlift PR 140 kg (2026-07-01), great progress in deficit. Right shoulder — nagging pain on barbell OHP, stopped entirely. Substitute dumbbell OHP or machine press on Friday push day. Monitor for pain patterns over 2–3 weeks.
+TRAINING NOTES — Deadlift top set on file: 130 kg x2 (2026-06-29). Right shoulder — nagging pain on barbell OHP, stopped entirely. Substitute dumbbell OHP or machine press on Friday push day. Monitor for pain patterns over 2–3 weeks.
 §
 RULE — day-of-week: always derive from the Hermes-provided message timestamp (visible in session context / tool output). Never guess or infer from conversation. Training days are Mon/Wed/Fri; rest days are Tue/Thu/Sat/Sun. Apply correct macro targets (training: +35 g carb / +140 kcal) only when timestamp confirms it. Tim has flagged this mistake multiple times.
