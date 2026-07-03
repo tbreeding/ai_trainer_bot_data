@@ -15,7 +15,7 @@
   "steps_target": 8000,
   "steps_target_days": "daily",
   "alcohol_goal": "zero",
-  "alcohol_dry_streak_days": 10,
+  "alcohol_dry_streak_days": 11,
   "split": {
     "Mon": "Pull (Back + biceps) + cardio",
     "Wed": "Legs + cardio",
@@ -27,8 +27,8 @@
   },
   "alcohol": {
     "streak_start": "2026-06-22",
-    "streak_days": 10,
-    "last_updated": "2026-07-02",
+    "streak_days": 11,
+    "last_updated": "2026-07-03",
     "goal": "zero"
   }
 }
