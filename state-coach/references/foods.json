@@ -13,5 +13,21 @@
       "fat_g": 1.8,
       "carbs_g": 4.9
     }
+  },
+  "chocolate_vilgain_shake": {
+    "name": "Chocolate Vilgain Shake",
+    "brand": "Vilgain",
+    "serving": "330ml Tetra Pak",
+    "kcal": 261,
+    "protein_g": 33,
+    "fat_g": 5.9,
+    "carbs_g": 16,
+    "per_100ml": {
+      "kcal": 79,
+      "protein_g": 10,
+      "fat_g": 1.8,
+      "carbs_g": 4.9
+    },
+    "notes": "from label photo 2026-07-04; fat split 1.8g total / 1.0g saturated per 100ml"
   }
 }
