@@ -1,21 +1,19 @@
 {
-  "_comment": "Lunch spots Arnold scans on weekdays. Each spot has a 'strategy' (parser): menubot | menicka | generic | skip. The deterministic fetch-menus.py parses these into menus-today.txt; Arnold only reasons over that. Add spots here. Prefer 'menicka' (standard CZ daily-menu export) when a place is listed there.",
+  "_comment": "Lunch spots Arnold offers on weekdays. Menus + macros come EXCLUSIVELY from the PragueMenus internal API (rpi1) — 'slug' is the praguemenus.com restaurant slug; fetch-menus.mjs asks the API (which scrapes politely and estimates macros) and never scrapes anything itself. To add a spot: get it listed on praguemenus.com first (it handles discovery/strategies), then add its slug here. 'note' is coach knowledge appended to the menu section.",
   "spots": [
     {
       "name": "Nile House (next door)",
-      "strategy": "menubot",
-      "url": "https://www.menubot.cz/app/users/goodlunchnilehouse2372165282/export/dailymenu_a.js",
-      "price_per_100g_kc": 39,
-      "note": "Teplý bufet = by weight (39 Kč/100g). Live cooking = fixed plates ~199 Kč. Soups ~39-49 Kč."
+      "slug": "good-lunch-nile-house",
+      "note": "Teplý bufet = pay by weight; macros arrive per 100 g with 100/150/200 g rungs precomputed. Live cooking = fixed plates."
     },
-    { "name": "Cafe Frida", "strategy": "menicka", "url": "https://www.menicka.cz/7190-cafe-frida.html" },
-    { "name": "Diego Pivní Bar", "strategy": "menicka", "url": "https://www.menicka.cz/7191-diego-pivni-bar.html" },
-    { "name": "Terminál Karlín (Dva Kohouti)", "strategy": "menicka", "url": "https://www.menicka.cz/8162-terminal-karlin-dvorek-dva-kohouti.html" },
-    { "name": "Quick & Easy", "strategy": "generic", "url": "https://www.quickandeasy.cz/menu", "note": "Static salad/soup menu (not daily-changing)." },
-    { "name": "Bufet Karlín", "strategy": "shoptet", "url": "https://www.bufetkarlin.cz/", "note": "Shoptet e-shop (pickup/delivery). Mostly burgers/fried — a treat spot, not cut-ideal." },
-    { "name": "Karlín Osteria", "strategy": "skip", "url": "https://www.karlin-osteria.cz/", "note": "No daily menu published online (verified via browser: section empty, no API). À la carte Italian." },
-    { "name": "Jidlovice Karlín", "strategy": "jidlovice", "url": "https://www.jidlovice.cz/api/v1/branch/2/menu/", "branch": 2, "note": "JSON API, branch 2 = Karlín. Includes English names." },
-    { "name": "Queens Kebab", "strategy": "skip", "note": "No daily menu — kebab/à la carte. Good high-protein fallback: order meat-heavy, easy on bread/fries." },
-    { "name": "Holka Restaurant", "strategy": "skip", "note": "No daily-menu URL provided yet — add one to enable." }
+    { "name": "Cafe Frida", "slug": "frida" },
+    { "name": "Diego Pivní Bar", "slug": "diego-pivni-bar" },
+    { "name": "Terminál Karlín (Dva Kohouti)", "slug": "terminal-karlin" },
+    { "name": "Quick & Easy", "slug": "quick-easy", "note": "Static salad/soup menu (not daily-changing)." },
+    { "name": "Bufet Karlín", "slug": "bufet", "note": "Mostly burgers/fried — a treat spot, not cut-ideal." },
+    { "name": "Karlín Osteria", "slug": "karlin-osteria", "note": "À la carte Italian, standing menu only." },
+    { "name": "Jidlovice Karlín", "slug": "jidlovice" },
+    { "name": "Queens Kebab", "slug": "queen-s-kebab", "note": "Good high-protein fallback: order meat-heavy, easy on bread/fries." },
+    { "name": "Holka Restaurant", "slug": "karlinska-holka" }
   ]
 }
