@@ -10,12 +10,12 @@
   },
   "training_day_carb_bonus_g": 35,
   "hydration_target_l": 3.0,
-  "weight_ma7": 86.36,
+  "weight_ma7": 86.53,
   "deload_flag": false,
   "steps_target": 8000,
   "steps_target_days": "daily",
   "alcohol_goal": "zero",
-  "alcohol_dry_streak_days": 15,
+  "alcohol_dry_streak_days": 2,
   "split": {
     "Mon": "Pull (Back + biceps) + cardio",
     "Wed": "Legs + cardio",
@@ -26,9 +26,11 @@
     "Sun": "rest"
   },
   "alcohol": {
-    "streak_start": "2026-06-21",
-    "streak_days": 15,
-    "last_updated": "2026-07-05",
-    "goal": "zero"
+    "streak_start": "2026-07-10",
+    "streak_days": 2,
+    "last_updated": "2026-07-11",
+    "goal": "zero",
+    "last_drink": "2026-07-09",
+    "note": "Drank on vacation (Wed Jul 9). Previous streak was 15 days (Jun 21-Jul 5 + no drink Jun 6-8?)."
   }
 }
