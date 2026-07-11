@@ -45,5 +45,22 @@
       "carbs_g": 7.8
     },
     "notes": "from label photo 2026-07-05; 900g container, powder"
+  },
+  "vilgain_coffee_protein_shake": {
+    "name": "Vilgain Coffee Protein Shake",
+    "brand": "Vilgain",
+    "flavour": "Coffee",
+    "serving": "330ml carton",
+    "kcal": 261,
+    "protein_g": 33,
+    "fat_g": 5.9,
+    "carbs_g": 15.8,
+    "per_100ml": {
+      "kcal": 79,
+      "protein_g": 10,
+      "fat_g": 1.8,
+      "carbs_g": 4.8
+    },
+    "notes": "Label values from Tetra Pak carton, 330ml serving"
   }
 }
