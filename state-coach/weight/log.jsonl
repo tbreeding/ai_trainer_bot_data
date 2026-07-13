@@ -13,3 +13,5 @@
 {"date": "2026-07-11", "kg": 86.5, "condition": "fasted", "note": "back from Portugal vacation"}
 {"date": "2026-07-12", "kg": 86.5, "condition": "fasted", "note": ""}
 {"date":"2026-07-13","kg":85.8,"condition":"fasted","note":""}
+{"date":"2026-06-30","kg":86.9,"condition":"fasted","note":"Fasted. Scale on flat surface. Previous 88.7 reading was scale on uneven floor — discarded. Consistent with yesterday's 86.8.","legacy_source":"weight_log.jsonl","legacy_migration_id":"8a93b47080d174b8da4a"}
+{"date":"2026-07-01","kg":86.8,"condition":"fasted","note":"Fasted.","legacy_source":"weight_log.jsonl","legacy_migration_id":"0543d8f1dba42edb7cb9"}

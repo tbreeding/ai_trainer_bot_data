@@ -7,3 +7,9 @@
 {"date":"2026-06-27","hours":7.12,"quality":5,"note":"Sleep score 94/100, duration 46/50, bedtime 29/30, interruptions 19/20 — best night this week"}
 {"date":"2026-06-28","hours":7.62,"quality":5,"note":"Sleep score 98/100 — duration 48/50, bedtime 30/30, interruptions 20/20. Perfect interruptions, perfect bedtime. Vitals typical."}
 {"date": "2026-07-03", "duration_h": 6.15, "score": 82, "quality_label": "High", "duration_score": "37/50", "bedtime_score": "29/30", "interruptions_score": "16/20", "vitals": "Typical", "notes": "6h9m — score 82. Bedtime on point 29/30, some interruptions 16/20, duration a bit short."}
+{"date":"2026-06-30","hours":8.25,"quality":4,"note":"8h15m — best sleep of the cut so far. Woke a few times but bedtime on point.","score":84,"legacy_source":"sleep_log.jsonl","legacy_migration_id":"d11df4b68e6b1acaf454"}
+{"date":"2026-07-01","hours":5.23,"quality":4,"note":"5h14m — short but fully uninterrupted. Score 80.","score":80,"legacy_source":"sleep_log.jsonl","legacy_migration_id":"0b98cc9aebe0acab48fb"}
+{"date":"2026-07-02","hours":7.12,"quality":4,"note":"7h7m — score 89. Bedtime on point, some wake-ups but still solid.","score":89,"legacy_source":"sleep_log.jsonl","legacy_migration_id":"e469915564da82074933"}
+{"date":"2026-07-04","hours":7.05,"quality":5,"note":"Bedtime on time. Score 95.","score":95,"legacy_source":"sleep_log.jsonl","legacy_migration_id":"38b15097b99b3373da83"}
+{"date":"2026-07-05","hours":7.35,"quality":4,"note":"7h21m — score 83. Bedtime slightly late (-3 pts). Some interruptions.","score":83,"legacy_source":"sleep_log.jsonl","legacy_migration_id":"2dcc6be1a2ba20386659"}
+{"date":"2026-06-29","hours":5.48,"quality":2,"note":"Sleep score 57/Low — duration 32/50 (5h29min), bedtime 25/30 (21:59, 1h52m earlier than usual), interruptions 0/20 (heavily fragmented). Vitals typical.","legacy_source":"sleep/sleep.jsonl","legacy_migration_id":"05a183e106810d27d3c8"}

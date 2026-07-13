@@ -15,3 +15,4 @@
 {"date": "2026-07-04", "steps": 9425}
 {"date": "2026-07-05", "steps": 14882, "distance_km": 9.7, "source": "Apple Watch", "notes": "travel day Portugal"}
 {"date": "2026-07-12", "steps": 20101, "source": "Apple Watch", "notes": "Rest day Sunday \u2014 final day count", "distance_km": 14.19, "active_calories_kcal": 1035, "exercise_min": 172, "stand_hrs": 12}
+{"date":"2026-07-03","steps":18145,"source":"legacy","note":"migrated from daily_log.jsonl","legacy_source":"daily_log.jsonl","legacy_migration_id":"43c029070c6b87c72f80"}
