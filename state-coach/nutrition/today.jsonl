@@ -76,3 +76,4 @@
 {"date": "2026-07-14", "meal": "dinner", "items": "250g cooked chicken breast, 1tbsp olive oil, 250g cooked white rice, 140g Greek yogurt, 40g cherry tomatoes", "kcal": 910, "protein_g": 94, "fat_g": 20, "carb_g": 78, "method": "text", "macro_source": "api"}
 {"date": "2026-07-15", "meal": "snack", "items": "330ml Tetra Pak protein shake (264 kcal, 33g protein, 17g carbs, 5.9g fat)", "kcal": 265, "protein_g": 32, "fat_g": 6, "carb_g": 17, "method": "photo", "macro_source": "api"}
 {"date": "2026-07-15", "meal": "lunch", "items": "chicken 250g cooked (hermelín scraped off, minimal residue), brown sauce ~50g, white rice 200g cooked", "kcal": 690, "protein_g": 81, "fat_g": 11, "carb_g": 58, "method": "text", "macro_source": "api"}
+{"date": "2026-07-15", "meal": "lunch", "items": "camembert cheese 30g (hermelín melted into sauce)", "kcal": 95, "protein_g": 6, "fat_g": 7, "carb_g": 0, "method": "text", "macro_source": "api"}
