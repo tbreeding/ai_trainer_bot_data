@@ -15,3 +15,4 @@
 {"date":"2026-06-29","hours":5.48,"quality":2,"note":"Sleep score 57/Low — duration 32/50 (5h29min), bedtime 25/30 (21:59, 1h52m earlier than usual), interruptions 0/20 (heavily fragmented). Vitals typical.","legacy_source":"sleep/sleep.jsonl","legacy_migration_id":"05a183e106810d27d3c8"}
 {"date":"2026-07-13","hours":6.33,"quality":4,"note":"Apple sleep screenshot: score 84/High; duration 39/50; bedtime 25/30; interruptions 20/20; vitals typical"}
 {"date":"2026-07-14","hours":7.15,"quality":3,"note":"automatically extracted from sleep screenshot; score 69"}
+{"date":"2026-07-15","hours":7.77,"quality":4,"note":"automatically extracted from sleep screenshot; score 76"}
