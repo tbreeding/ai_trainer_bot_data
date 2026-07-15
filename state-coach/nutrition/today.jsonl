@@ -78,3 +78,5 @@
 {"date": "2026-07-15", "meal": "lunch", "items": "chicken 250g cooked (hermelín scraped off, minimal residue), brown sauce ~50g, white rice 200g cooked", "kcal": 690, "protein_g": 81, "fat_g": 11, "carb_g": 58, "method": "text", "macro_source": "api"}
 {"date": "2026-07-15", "meal": "lunch", "items": "camembert cheese 30g (hermelín melted into sauce)", "kcal": 95, "protein_g": 6, "fat_g": 7, "carb_g": 0, "method": "text", "macro_source": "api"}
 {"date": "2026-07-15", "meal": "snack", "items": "GymBeam Iso HydroFue protein shake, 1 scoop 25g (chocolate hazelnut)", "kcal": 87, "protein_g": 20, "fat_g": 0.35, "carb_g": 0.6, "method": "label", "macro_source": "label"}
+{"date": "2026-07-15", "meal": "snack", "items": "GymBeam whey protein 35g serving (131 kcal, 23g protein, 7.4g carbs, 1.1g fat)", "kcal": 145, "protein_g": 26, "fat_g": 2, "carb_g": 3, "method": "photo", "macro_source": "api"}
+{"date": "2026-07-15", "meal": "snack", "items": "GymBeam whey protein powder 35g scoop", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
