@@ -74,3 +74,4 @@
 {"date": "2026-07-14", "meal": "snack", "items": "GymBeam whey protein shake 25g", "kcal": 88.0, "protein_g": 21.0, "fat_g": 0.0, "carb_g": 0.0, "method": "text", "macro_source": "local"}
 {"date": "2026-07-14", "meal": "snack", "items": "Tetra Pak protein shake 330ml", "kcal": 264.0, "protein_g": 33.0, "fat_g": 6.0, "carb_g": 17.0, "method": "text", "macro_source": "local"}
 {"date": "2026-07-14", "meal": "dinner", "items": "250g cooked chicken breast, 1tbsp olive oil, 250g cooked white rice, 140g Greek yogurt, 40g cherry tomatoes", "kcal": 910, "protein_g": 94, "fat_g": 20, "carb_g": 78, "method": "text", "macro_source": "api"}
+{"date": "2026-07-15", "meal": "snack", "items": "330ml Tetra Pak protein shake (264 kcal, 33g protein, 17g carbs, 5.9g fat)", "kcal": 265, "protein_g": 32, "fat_g": 6, "carb_g": 17, "method": "photo", "macro_source": "api"}
