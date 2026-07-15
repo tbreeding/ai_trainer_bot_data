@@ -81,3 +81,4 @@
 {"date": "2026-07-15", "meal": "snack", "items": "GymBeam whey protein 35g serving (131 kcal, 23g protein, 7.4g carbs, 1.1g fat)", "kcal": 145, "protein_g": 26, "fat_g": 2, "carb_g": 3, "method": "photo", "macro_source": "api"}
 {"date": "2026-07-15", "meal": "snack", "items": "GymBeam whey protein powder 35g scoop", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-15", "meal": "snack", "items": "small slice cheesecake ~80g", "kcal": 225, "protein_g": 4, "fat_g": 15, "carb_g": 18, "method": "text", "macro_source": "api"}
+{"date": "2026-07-15", "meal": "dinner", "items": "chicken breast fajita burrito: large flour tortilla ~70g, chicken breast grilled ~150g, guacamole ~50g, fajita veggies (peppers/onions) ~80g, black beans ~80g cooked, salsa ~30g", "kcal": 650, "protein_g": 56, "fat_g": 19, "carb_g": 56, "method": "text", "macro_source": "api"}
