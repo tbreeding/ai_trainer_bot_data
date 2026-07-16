@@ -18,3 +18,4 @@
 {"date":"2026-07-03","steps":18145,"source":"legacy","note":"migrated from daily_log.jsonl","legacy_source":"daily_log.jsonl","legacy_migration_id":"43c029070c6b87c72f80"}
 {"date":"2026-07-13","steps":16752,"source":"applewatch","note":"Apple Fitness screenshot: 11.49 km; move 1018 kcal; exercise 65 min; stand 17h"}
 {"date":"2026-07-15","steps":13799,"source":"applewatch","note":""}
+{"date": "2026-07-16", "timestamp": "2026-07-16T22:00:17.701040+02:00", "steps": 14404, "source": "apple_health_auto"}
