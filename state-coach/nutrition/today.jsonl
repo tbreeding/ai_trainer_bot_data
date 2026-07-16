@@ -85,3 +85,4 @@
 {"date": "2026-07-16", "meal": "snack", "items": "whey protein shake, 35g serving", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-16", "meal": "snack", "items": "Vilgain protein drink, 330ml", "kcal": 261.0, "protein_g": 33.0, "fat_g": 5.9, "carb_g": 16.0, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-16", "meal": "lunch", "items": "Kuřecí prsa v omáčce z pečených paprik 300g, bílá rýže vařená 200g", "kcal": 625, "protein_g": 58, "fat_g": 10, "carb_g": 66, "method": "text", "macro_source": "api"}
+{"date": "2026-07-16", "meal": "snack", "items": "Chocolate hazelnut whey protein, 25g scoop", "kcal": 87.0, "protein_g": 20.0, "fat_g": 0.35, "carb_g": 0.6, "method": "photo", "macro_source": "local"}
