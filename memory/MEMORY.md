@@ -4,7 +4,7 @@ RULE — before logging any nutrition entry: (1) read nutrition.jsonl to see wha
 §
 Deadlift top set on file: 130 kg x2 (2026-06-29). The 140 kg PR logged on 2026-07-01 was false — Tim confirmed it never happened. No deadlift on 2026-07-01.
 §
-WEIGHT & HEALTH — 7d MA ~86.4 kg as of 2026-07-03. Scale now clean — creatine dropped after ~2-3 days (started Jun 29, stopped ~Jul 1). Water retention gone. 86.4 kg is a real reading. Baseline 87 kg valid. Sleep ~5–6 h, target 7–8 h.
+WEIGHT & HEALTH — 7d MA ~86.4 kg as of 2026-07-03. No creatine (stopped, not restarting). Scale clean. Baseline 87 kg valid. Sleep ~5–6 h, target 7–8 h.
 §
 TRAINING NOTES — Deadlift top set on file: 130 kg x2 (2026-06-29). Right shoulder cleared — Tim confirmed no pain as of 2026-07-04. Barbell OHP is back on Push day. Accessory working weights (2026-07-04): lateral raise machine 27.5 kg × 6; bicep curl machine 35 kg × 8; pec fly machine 38.75 kg × 10.
 §
