@@ -90,3 +90,4 @@
 {"date": "2026-07-16", "meal": "dinner", "items": "150g cooked chicken breast, 200g cooked white rice, 75g Greek yogurt plain, 50g cherry tomatoes, 1 tsp olive oil", "kcal": 534.0, "protein_g": 45.0, "fat_g": 10.0, "carb_g": 63.0, "method": "text", "macro_source": "local"}
 {"date": "2026-07-17", "meal": "snack", "items": "whey protein shake, 2 scoops (70g) — label exact", "kcal": 262.0, "protein_g": 46.0, "fat_g": 2.2, "carb_g": 14.8, "method": "photo", "macro_source": "label"}
 {"date": "2026-07-17", "meal": "lunch", "items": "250g chicken breast, 50g Italian tomato sauce, 200g cooked white rice", "kcal": 530.0, "protein_g": 60.0, "fat_g": 10.0, "carb_g": 51.0, "method": "text", "macro_source": "local"}
+{"date": "2026-07-17", "meal": "snack", "items": "chocolate hazelnut protein powder, 25g scoop", "kcal": 87.0, "protein_g": 20.0, "fat_g": 0.35, "carb_g": 0.6, "method": "photo", "macro_source": "local"}
