@@ -11,3 +11,5 @@ TRAINING NOTES — Deadlift top set on file: 130 kg x2 (2026-06-29). Right shoul
 RULE — day-of-week: always derive from the Hermes-provided message timestamp (visible in session context / tool output). Never guess or infer from conversation. Training days are Mon/Wed/Fri; rest days are Tue/Thu/Sat/Sun. Apply correct macro targets (training: +35 g carb / +140 kcal) only when timestamp confirms it. Tim has flagged this mistake multiple times.
 §
 Tim is on vacation in Portugal 2026-07-06 through 2026-07-10 (returns Thursday evening). No gym, no scale. Mon (Jul 7) and Wed (Jul 9) lifts missed. Resume normal training Friday Jul 11.
+§
+RULE — when a nutrition label is visible in a photo, always use the exact label numbers. Never use --estimate when the label data is readable. Pass --kcal, --protein, --fat, --carb explicitly with label values.
