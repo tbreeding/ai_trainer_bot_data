@@ -21,3 +21,4 @@
 {"date": "2026-07-16", "timestamp": "2026-07-16T22:00:17.701040+02:00", "steps": 14404, "source": "apple_health_auto"}
 {"date":"2026-07-18","steps":13967,"source":"applewatch","note":""}
 {"date":"2026-07-19","steps":13933,"source":"applewatch","note":""}
+{"date":"2026-07-19","steps":13933,"source":"apple_health","logged_at":"2026-07-19T21:47:00Z"}
