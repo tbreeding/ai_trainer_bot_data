@@ -95,3 +95,4 @@
 {"date": "2026-07-18", "meal": "breakfast", "items": "1 large egg, 100g cooked white rice, 210g cooked chicken breast, 30g Greek yogurt, 1 tbsp olive oil", "kcal": 605, "protein_g": 74, "fat_g": 18, "carb_g": 30, "method": "text", "macro_source": "api"}
 {"date": "2026-07-18", "meal": "snack", "items": "2 servings (70g) protein shake", "kcal": 262.0, "protein_g": 46.0, "fat_g": 2.2, "carb_g": 14.8, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-18", "meal": "dinner", "items": "210g cooked chicken breast, 200g cooked white rice, 100g black refried beans, 65g cherry tomatoes, 40g Greek yogurt", "kcal": 745, "protein_g": 77, "fat_g": 13, "carb_g": 70, "method": "text", "macro_source": "api"}
+{"date": "2026-07-19", "meal": "snack", "items": "Protein powder 52g", "kcal": 198.0, "protein_g": 44.5, "fat_g": 1.0, "carb_g": 2.6, "method": "photo", "macro_source": "local"}
