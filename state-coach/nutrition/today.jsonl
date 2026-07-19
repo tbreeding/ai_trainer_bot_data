@@ -100,3 +100,4 @@
 {"date": "2026-07-19", "meal": "snack", "items": "Protein powder 35g (131 kcal, 23g protein, 1.1g fat, 7.4g carb)", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-19", "meal": "snack", "items": "Cereal/oat bar (1 bar)", "kcal": 165.0, "protein_g": 2.4, "fat_g": 5.9, "carb_g": 23.0, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-19", "meal": "snack", "items": "Snack bar 50g (half label)", "kcal": 195.0, "protein_g": 12.5, "fat_g": 8.0, "carb_g": 20.0, "method": "photo", "macro_source": "local"}
+{"date": "2026-07-19", "meal": "dinner", "items": "Rummo fusilli 50g dry + 1 tsp olive oil", "kcal": 220.0, "protein_g": 7.3, "fat_g": 5.8, "carb_g": 34.8, "method": "photo", "macro_source": "local"}
