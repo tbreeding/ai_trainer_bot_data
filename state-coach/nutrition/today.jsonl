@@ -103,3 +103,4 @@
 {"date": "2026-07-19", "meal": "dinner", "items": "Rummo fusilli 50g dry + 1 tsp olive oil", "kcal": 220.0, "protein_g": 7.3, "fat_g": 5.8, "carb_g": 34.8, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-20", "meal": "snack", "items": "protein powder, 2 x 35g servings", "kcal": 262.0, "protein_g": 46.0, "fat_g": 2.2, "carb_g": 14.8, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-20", "meal": "lunch", "items": "250g cooked white rice, 250g cooked chicken breast, 60g cream/sun-dried tomato sauce", "kcal": 827.0, "protein_g": 86.0, "fat_g": 17.0, "carb_g": 75.0, "method": "text", "macro_source": "local"}
+{"date": "2026-07-20", "meal": "snack", "items": "330ml Vilgain protein drink (carton)", "kcal": 261.0, "protein_g": 33.0, "fat_g": 5.9, "carb_g": 16.0, "method": "photo", "macro_source": "local"}
