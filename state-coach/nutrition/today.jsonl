@@ -106,3 +106,4 @@
 {"date": "2026-07-20", "meal": "snack", "items": "330ml Vilgain protein drink (carton)", "kcal": 261.0, "protein_g": 33.0, "fat_g": 5.9, "carb_g": 16.0, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-20", "meal": "dinner", "items": "150g cooked chicken breast, 80g cooked white rice, 100g black refried beans, 40g Greek yogurt (0.3g fat per 100g)", "kcal": 481.0, "protein_g": 58.0, "fat_g": 7.0, "carb_g": 40.0, "method": "text", "macro_source": "local"}
 {"date": "2026-07-21", "meal": "snack", "items": "ISO Whey Protein 52g", "kcal": 198.0, "protein_g": 44.5, "fat_g": 1.0, "carb_g": 2.6, "method": "photo", "macro_source": "local"}
+{"date": "2026-07-21", "meal": "lunch", "items": "300g cooked chicken (Nile House restaurant), 250g cooked white rice, 60g sauce", "kcal": 905, "protein_g": 94, "fat_g": 16, "carb_g": 74, "method": "text", "macro_source": "api"}
