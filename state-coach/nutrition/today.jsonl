@@ -115,3 +115,4 @@
 {"date": "2026-07-22", "meal": "dinner", "items": "150g RUMMO dry pasta, 250g cooked chicken breast, 100g tomato passata, 20g olive oil, 10g butter", "kcal": 1216.0, "protein_g": 100.0, "fat_g": 40.0, "carb_g": 109.0, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-23", "meal": "snack", "items": "53g ISO whey protein powder", "kcal": 202.0, "protein_g": 45.3, "fat_g": 1.1, "carb_g": 2.7, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-23", "meal": "lunch", "items": "300g cooked chicken tandoori, 300g cooked white rice", "kcal": 885.0, "protein_g": 92.0, "fat_g": 16.0, "carb_g": 90.0, "method": "text", "macro_source": "local"}
+{"date": "2026-07-23", "meal": "snack", "items": "35g whey protein powder", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
