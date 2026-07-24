@@ -118,3 +118,5 @@
 {"date": "2026-07-23", "meal": "snack", "items": "35g whey protein powder", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-23", "meal": "dinner", "items": "210g cooked marinated chicken breast, 150g cooked white rice, 60g tomato passata, 5g olive oil, 5g butter", "kcal": 600, "protein_g": 68, "fat_g": 14, "carb_g": 44, "method": "text", "macro_source": "api"}
 {"date": "2026-07-23", "meal": "snack", "items": "Starbucks Grande half-fat milk latte, decaf, 16oz (2% milk)", "kcal": 190.0, "protein_g": 13.0, "fat_g": 7.0, "carb_g": 19.0, "method": "text", "macro_source": "local"}
+{"date": "2026-07-24", "meal": "breakfast", "items": "2x35g whey protein shake", "kcal": 262.0, "protein_g": 46.0, "fat_g": 2.2, "carb_g": 14.8, "method": "photo", "macro_source": "local"}
+{"date": "2026-07-24", "meal": "lunch", "items": "250g cooked jasmine rice, 300g chicken breast, 50g rosemary sauce - Nile House kuřecí steak s rozmarýnem", "kcal": 910, "protein_g": 97, "fat_g": 21, "carb_g": 71, "method": "text", "macro_source": "api"}
