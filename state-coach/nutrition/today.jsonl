@@ -133,3 +133,4 @@
 {"date": "2026-07-27", "meal": "dinner", "items": "240g cooked chicken breast, 1 tsp olive oil, 200g cooked white rice, 40g low fat Greek yogurt", "kcal": 705, "protein_g": 80, "fat_g": 13, "carb_g": 58, "method": "text", "macro_source": "api"}
 135|{"date":"2026-07-28","meal":"lunch","items":"Nile House - Chicken Breast in a butter chicken Indian sauce: 250g chicken breast, 200g cooked white rice, 80g butter chicken sauce","kcal":520,"protein_g":47,"fat_g":18,"carb_g":52,"method":"text","macro_source":"local","timestamp":"2026-07-28T12:00:00Z"}
 {"date": "2026-07-28", "meal": "protein_product", "items": "35g serving: 131 kcal, 23g protein, 1.1g fat, 7.4g carbs", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
+{"date": "2026-07-28", "meal": "chocolate_hazelnut_protein", "items": "1 scoop (25g)", "kcal": 87.0, "protein_g": 20.0, "fat_g": 0.35, "carb_g": 0.6, "method": "photo", "macro_source": "local"}
