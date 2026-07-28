@@ -135,3 +135,4 @@
 {"date": "2026-07-28", "meal": "protein_product", "items": "35g serving: 131 kcal, 23g protein, 1.1g fat, 7.4g carbs", "kcal": 131.0, "protein_g": 23.0, "fat_g": 1.1, "carb_g": 7.4, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-28", "meal": "chocolate_hazelnut_protein", "items": "1 scoop (25g)", "kcal": 87.0, "protein_g": 20.0, "fat_g": 0.35, "carb_g": 0.6, "method": "photo", "macro_source": "local"}
 {"date": "2026-07-28", "meal": "snack_rotisserie_chicken", "items": "200g rotisserie chicken breast with skin", "kcal": 330, "protein_g": 52, "fat_g": 16, "carb_g": 0, "method": "text", "macro_source": "local"}
+{"date": "2026-07-28", "meal": "rotisserie_chicken_pico", "items": "200g rotisserie chicken breast with skin + 60g fresh pico de gallo", "kcal": 470, "protein_g": 47, "fat_g": 29, "carb_g": 2, "method": "text", "macro_source": "api"}
